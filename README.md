@@ -105,7 +105,11 @@ The project combines **Multi-Layer Perceptron neural networks** with the **Grass
 
 **Technical focus:** MATLAB, neural networks, intrusion detection, optimization, metaheuristic algorithms, cybersecurity, KDD/UNSW datasets.
 
-**Research connection:** This project connects my earlier work in machine learning, optimization, and network security with my current research direction in trustworthy and decision-oriented AI systems.
+**Related publication:**  
+[GOAMLP: Network Intrusion Detection With Multilayer Perceptron and Grasshopper Optimization Algorithm](https://doi.org/10.1109/ACCESS.2020.3040740)
+
+**Repository:**  
+[View GOAMLP on GitHub](https://github.com/Farshidbagheri/GOAMLP)
 
 ---
 
@@ -118,13 +122,18 @@ The system models charging decisions using reinforcement learning to balance cha
 
 **Engineering value:** This project demonstrates applied AI for infrastructure optimization and intelligent resource management.
 
+**Repository:**  
+[View EV Charging Optimization on GitHub](https://github.com/Farshidbagheri/EV_Charging_Optimization)
+
 ---
 
-### Current Doctoral Research
+## Current Doctoral Research
 
-**Causal Machine Learning for Optimal Antibiotic Timing in Sepsis**
+### Causal Machine Learning for Optimal Antibiotic Timing in Sepsis
 
-My current doctoral research focuses on applying causal machine learning and data-driven modeling to understand the relationship between clinical decisions, antibiotic timing, and patient outcomes in sepsis.
+My current doctoral research focuses on applying **causal machine learning** and data-driven modeling to understand the relationship between clinical decisions, antibiotic timing, and patient outcomes in sepsis.
+
+The goal is to support the development of interpretable and clinically meaningful AI systems that can assist healthcare professionals in making better timing-related decisions.
 
 **Technical focus:** causal inference, healthcare AI, temporal clinical data, machine learning, sepsis, clinical decision support.
 
@@ -132,29 +141,26 @@ My current doctoral research focuses on applying causal machine learning and dat
 
 ## Academic & Research Identity
 
-My work combines computer engineering, machine learning, and healthcare research with a focus on solving real-world problems through intelligent systems.
+My academic identity is built around the intersection of **computer engineering, machine learning, healthcare AI, and intelligent decision systems**.
 
-I am particularly interested in projects that connect:
-
-- AI with clinical decision-making
-- Machine learning with causal reasoning
-- Healthcare datasets with actionable insights
-- Research prototypes with practical systems
-- Engineering methods with human-centered impact
+I am interested in developing AI methods that connect technical rigor with real-world impact, especially in healthcare environments where timing, interpretability, and decision quality matter.
 
 ---
 
 ## Selected Research Output
 
-- **GOAMLP: Network Intrusion Detection With Multilayer Perceptron and Grasshopper Optimization Algorithm**  
-  IEEE Access, 2020. Focused on machine learning, neural networks, metaheuristic optimization, and network intrusion detection.
+- **[GOAMLP: Network Intrusion Detection With Multilayer Perceptron and Grasshopper Optimization Algorithm](https://doi.org/10.1109/ACCESS.2020.3040740)**  
+  IEEE Access, 2020. Focused on machine learning, neural networks, metaheuristic optimization, and network intrusion detection.  
+  [CWRU Repository](https://commons.case.edu/studentworks/21/) • [GitHub Code](https://github.com/Farshidbagheri/GOAMLP)
 
-- **Machine Learning in Apache Spark Environment for Diagnosis of Diabetes**  
-  Focused on scalable machine learning and healthcare-related data analysis.
+- **[Machine Learning in Apache Spark Environment for Diagnosis of Diabetes](https://doi.org/10.20944/preprints202111.0200.v1)**  
+  Preprints, 2021. Focused on scalable machine learning, Apache Spark, healthcare-related data analysis, and diabetes diagnosis.  
+  [CWRU Repository](https://commons.case.edu/studentworks/22/)
 
-- **Energy-Efficient Routing for Wireless Body Area Networks**  
-  Focused on wireless body area networks, healthcare-oriented sensor networks, and routing optimization.
-
+- **[Present a New Method for Energy Efficient Routing for Wireless Body Area Networks](https://commons.case.edu/studentworks/24/)**  
+  Focused on wireless body area networks, healthcare-oriented sensor networks, and energy-efficient routing optimization.  
+  [CWRU Repository](https://commons.case.edu/studentworks/24/)
+  
 ---
 
 ## GitHub Activity
