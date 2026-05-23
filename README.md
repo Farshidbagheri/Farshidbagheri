@@ -213,6 +213,18 @@ I am open to research and engineering collaborations in causal machine learning,
 
 ---
 
+## Community & Technical Support
+
+<div align="center">
+
+![GitHub Discussions](https://img.shields.io/badge/GitHub%20Discussions-20%2B%20technical%20answers-2ea44f?style=for-the-badge&logo=github)
+![Technical Focus](https://img.shields.io/badge/Focus-ML%20%7C%20GitHub%20Actions%20%7C%20Copilot%20%7C%20APIs-0A66C2?style=for-the-badge)
+![Problem Solving](https://img.shields.io/badge/Style-Practical%20Debugging%20%26%20Clear%20Explanations-purple?style=for-the-badge)
+
+</div>
+
+---
+
 ## Professional Vision
 
 I aim to develop intelligent, ethical, and clinically meaningful AI systems that can support better decision-making, improve healthcare outcomes, and contribute to a more reliable future for data-driven medicine.
