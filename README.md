@@ -209,7 +209,7 @@ I am open to research and engineering collaborations in:
 
 ## Professional Vision
 
-I aim to develop intelligent, ethical, and clinically meaningful AI systems that can support better decisions, improve healthcare outcomes, and contribute to a more reliable future for data-driven medicine.
+I aim to develop intelligent, ethical, and clinically meaningful AI systems that can support better decision-making, improve healthcare outcomes, and contribute to a more reliable future for data-driven medicine.
 
 My long-term vision is to combine **machine learning, causal reasoning, healthcare data, and intelligent systems** to create technologies that are technically rigorous and genuinely valuable for people.
 
