@@ -207,12 +207,6 @@ I am open to research and engineering collaborations in:
 
 ---
 
-## Collaboration Interests
-
-I am open to research and engineering collaborations in causal machine learning, healthcare AI, sepsis research, intelligent decision systems, and applied machine learning projects with real-world impact.
-
----
-
 ## Community & Technical Support
 
 <div align="center">
