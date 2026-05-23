@@ -207,6 +207,12 @@ I am open to research and engineering collaborations in:
 
 ---
 
+## Collaboration Interests
+
+I am open to research and engineering collaborations in causal machine learning, healthcare AI, sepsis research, intelligent decision systems, and applied machine learning projects with real-world impact.
+
+---
+
 ## Professional Vision
 
 I aim to develop intelligent, ethical, and clinically meaningful AI systems that can support better decision-making, improve healthcare outcomes, and contribute to a more reliable future for data-driven medicine.
