@@ -12,8 +12,9 @@
 [Website](https://www.farshidbagheri.com) •
 [LinkedIn](https://www.linkedin.com/in/farshidbagherisaravi) •
 [Google Scholar](https://scholar.google.com/citations?user=cnkhpngAAAAJ) •
+[ORCID](https://orcid.org/0000-0003-4213-5053) •
+[IEEE Explore](https://ieeexplore.ieee.org/author/37088572164)
 [ResearchGate](https://www.researchgate.net/profile/Farshid-Bagheri-Saravi) •
-[GitHub](https://github.com/Farshidbagheri)
 
 <br><br>
 
