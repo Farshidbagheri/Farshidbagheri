@@ -11,7 +11,7 @@
 
 [Website](https://www.farshidbagheri.com) •
 [LinkedIn](https://www.linkedin.com/in/farshidbagherisaravi) •
-[Google Scholar](https://scholar.google.com/citations?user=cnkhgngAAAAJ) •
+[Google Scholar](https://scholar.google.com/citations?user=cnkhpngAAAAJ) •
 [ResearchGate](https://www.researchgate.net/profile/Farshid-Bagheri-Saravi) •
 [GitHub](https://github.com/Farshidbagheri)
 
