@@ -22,7 +22,7 @@
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=flat-square)
 ![Causal Inference](https://img.shields.io/badge/Causal%20Inference-4B0082?style=flat-square)
 ![Healthcare AI](https://img.shields.io/badge/Healthcare%20AI-0A66C2?style=flat-square)
-![HealthTech](https://img.shields.io/badge/HealthTech-1F6FEB?style=flat-square)
+![Clinical Decision Support](https://img.shields.io/badge/Clinical%20Decision%20Support-1F6FEB?style=flat-square)
 ![Data Science](https://img.shields.io/badge/Data%20Science-2F4F4F?style=flat-square)
 
 </div>
