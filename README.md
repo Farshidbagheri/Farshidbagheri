@@ -66,20 +66,25 @@ I am especially interested in building AI systems that are not only technically 
 
 ---
 
-## Current Research Direction
+## Doctoral Research Focus
 
-### Causal Machine Learning for Sepsis and Antibiotic Timing
+### Causal Machine Learning for Optimal Antibiotic Timing in Sepsis
 
-My doctoral research is focused on developing machine learning and causal inference methods to study the relationship between clinical decisions, timing of antibiotic prescribing, and patient outcomes in sepsis.
+My doctoral research focuses on developing temporal causal machine learning methods to study how clinical decisions, antibiotic timing, and patient outcomes interact in emergency department sepsis care.
+
+The goal is to estimate patient-specific timing-response patterns and support interpretable, clinically meaningful decision-support systems that can help identify when delaying antibiotics may become harmful.
 
 Key themes include:
 
-- Modeling temporal clinical events
-- Identifying meaningful treatment windows
-- Studying clinician decision-making patterns
+- Modeling temporal clinical events and irregular EHR data
+- Estimating counterfactual outcomes under alternative antibiotic timing strategies
+- Identifying meaningful treatment windows and patient-specific delay tolerance
+- Studying clinician decision-making patterns and workflow-driven confounding
 - Applying causal reasoning to healthcare data
 - Supporting interpretable and actionable AI in clinical settings
 - Building foundations for intelligent clinical decision support systems
+
+**Technical focus:** causal inference, temporal machine learning, healthcare AI, EHR data, sepsis, clinical decision support.
 
 ---
 
@@ -137,18 +142,6 @@ The system models charging decisions using reinforcement learning to balance cha
 
 **Repository:**  
 [View EV Charging Optimization on GitHub](https://github.com/Farshidbagheri/EV_Charging_Optimization)
-
----
-
-## Current Doctoral Research
-
-### Causal Machine Learning for Optimal Antibiotic Timing in Sepsis
-
-My current doctoral research focuses on applying **causal machine learning** and data-driven modeling to understand the relationship between clinical decisions, antibiotic timing, and patient outcomes in sepsis.
-
-The goal is to support the development of interpretable and clinically meaningful AI systems that can assist healthcare professionals in making better timing-related decisions.
-
-**Technical focus:** causal inference, healthcare AI, temporal clinical data, machine learning, sepsis, clinical decision support.
 
 ---
 
