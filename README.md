@@ -2,17 +2,28 @@
 
 # Farshid Bagheri Saravi
 
-### Ph.D. Candidate in Computer Engineering  
-### Causal Machine Learning • Healthcare AI • Intelligent Systems • Data-Driven Research
+### Ph.D. Candidate in Computer Engineering at CWRU  
+### Causal Machine Learning • Healthcare AI • Sepsis Research • Intelligent Systems
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1000&center=true&vCenter=true&width=900&lines=Ph.D.+Candidate+in+Computer+Engineering+at+CWRU;Causal+Machine+Learning+for+Healthcare+AI;Sepsis+Research+%7C+Optimal+Antibiotic+Timing;AI+%26+Data-Driven+Clinical+Decision+Systems;Machine+Learning+%7C+Data+Science+%7C+Intelligent+Systems" alt="Typing SVG" />
+**Causal Machine Learning for Optimal Antibiotic Timing in Sepsis**
 
 <br>
 
-[![Website](https://img.shields.io/badge/Website-farshidbagheri.com-blue?style=for-the-badge&logo=google-chrome)](http://www.farshidbagheri.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Farshid%20Bagheri%20Saravi-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/farshidbagherisaravi)
-[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Research_Profile-4285F4?style=for-the-badge&logo=google-scholar)](https://scholar.google.com/citations?user=cnkhgngAAAAJ)
-[![ResearchGate](https://img.shields.io/badge/ResearchGate-Farshid%20Bagheri%20Saravi-00CCBB?style=for-the-badge&logo=researchgate)](https://www.researchgate.net/profile/Farshid-Bagheri-Saravi)
+[Website](https://www.farshidbagheri.com) •
+[LinkedIn](https://www.linkedin.com/in/farshidbagherisaravi) •
+[Google Scholar](https://scholar.google.com/citations?user=cnkhgngAAAAJ) •
+[ResearchGate](https://www.researchgate.net/profile/Farshid-Bagheri-Saravi) •
+[GitHub](https://github.com/Farshidbagheri)
+
+<br><br>
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-Orange?style=flat-square)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=flat-square)
+![Causal Inference](https://img.shields.io/badge/Causal%20Inference-4B0082?style=flat-square)
+![Healthcare AI](https://img.shields.io/badge/Healthcare%20AI-0A66C2?style=flat-square)
+![Data Science](https://img.shields.io/badge/Data%20Science-1F6FEB?style=flat-square)
+![Computer Networks](https://img.shields.io/badge/Computer%20Networks-2F4F4F?style=flat-square)
 
 </div>
 
@@ -87,21 +98,35 @@ Key themes include:
 
 ## Featured Projects
 
-### GOAMLP  
-**Goal-Oriented Adaptive Machine Learning Parameters**
+### [GOAMLP: Network Intrusion Detection with MLP and Grasshopper Optimization Algorithm](https://github.com/Farshidbagheri/GOAMLP)
 
-A MATLAB-based machine learning project focused on reducing intrusion detection error in neural networks by selecting useful model parameters such as weights and biases.
+A MATLAB-based machine learning and optimization project for network intrusion detection.  
+The project combines **Multi-Layer Perceptron neural networks** with the **Grasshopper Optimization Algorithm** to reduce intrusion detection error by optimizing model parameters such as weights and biases.
 
-**Focus areas:** MATLAB, neural networks, intrusion detection, optimization, adaptive learning.
+**Technical focus:** MATLAB, neural networks, intrusion detection, optimization, metaheuristic algorithms, cybersecurity, KDD/UNSW datasets.
+
+**Research connection:** This project connects my earlier work in machine learning, optimization, and network security with my current research direction in trustworthy and decision-oriented AI systems.
 
 ---
 
-### EV Charging Optimization  
-**Reinforcement Learning-Based Optimization for Electric Vehicle Charging**
+### [EV Charging Optimization System](https://github.com/Farshidbagheri/EV_Charging_Optimization)
 
-A Python-based project focused on applying reinforcement learning methods to optimize electric vehicle charging behavior.
+A Python-based reinforcement learning project for optimizing electric vehicle charging behavior.  
+The system models charging decisions using reinforcement learning to balance charging efficiency, grid load, cost, and user demand.
 
-**Focus areas:** Python, reinforcement learning, optimization, energy systems, intelligent decision-making.
+**Technical focus:** Python, reinforcement learning, optimization, Gym environment, smart grids, EV charging, energy systems, decision-making.
+
+**Engineering value:** This project demonstrates applied AI for infrastructure optimization and intelligent resource management.
+
+---
+
+### Current Doctoral Research
+
+**Causal Machine Learning for Optimal Antibiotic Timing in Sepsis**
+
+My current doctoral research focuses on applying causal machine learning and data-driven modeling to understand the relationship between clinical decisions, antibiotic timing, and patient outcomes in sepsis.
+
+**Technical focus:** causal inference, healthcare AI, temporal clinical data, machine learning, sepsis, clinical decision support.
 
 ---
 
@@ -119,15 +144,22 @@ I am particularly interested in projects that connect:
 
 ---
 
+## Selected Research Output
+
+- **GOAMLP: Network Intrusion Detection With Multilayer Perceptron and Grasshopper Optimization Algorithm**  
+  IEEE Access, 2020. Focused on machine learning, neural networks, metaheuristic optimization, and network intrusion detection.
+
+- **Machine Learning in Apache Spark Environment for Diagnosis of Diabetes**  
+  Focused on scalable machine learning and healthcare-related data analysis.
+
+- **Energy-Efficient Routing for Wireless Body Area Networks**  
+  Focused on wireless body area networks, healthcare-oriented sensor networks, and routing optimization.
+
+---
+
 ## GitHub Activity
 
 <div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Farshidbagheri&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub Stats" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Farshidbagheri&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
-
-<br>
 
 <img src="https://streak-stats.demolab.com?user=Farshidbagheri&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
 
