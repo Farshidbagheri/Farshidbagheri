@@ -39,6 +39,18 @@ I am especially interested in building AI systems that are not only technically 
 
 ---
 
+## Research Snapshot
+
+| Area | Current Focus | Application |
+|---|---|---|
+| Causal Machine Learning | Treatment timing and outcome modeling | Sepsis and clinical decision support |
+| Healthcare AI | Interpretable and useful AI systems | Data-driven medicine |
+| Machine Learning & Data Science | Predictive modeling, optimization, analytics | Research and real-world datasets |
+| Intelligent Systems | Decision-oriented AI workflows | Clinical and engineering systems |
+| Computer Networks | Intrusion detection and optimization | Cybersecurity and network intelligence |
+
+---
+
 ## Research & Technical Focus
 
 - **Causal Machine Learning**
@@ -170,6 +182,18 @@ I am interested in developing AI methods that connect technical rigor with real-
 <img src="https://streak-stats.demolab.com?user=Farshidbagheri&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
 
 </div>
+
+---
+
+## Collaboration Interests
+
+I am open to research and engineering collaborations in:
+
+- Causal machine learning and healthcare AI
+- Sepsis prediction and clinical decision support
+- Data science and machine learning systems
+- AI-driven optimization and intelligent decision-making
+- Applied AI projects with real-world impact
 
 ---
 
