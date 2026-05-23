@@ -175,6 +175,16 @@ I am interested in developing AI methods that connect technical rigor with real-
   
 ---
 
+## GitHub Highlights
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Farshidbagheri&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=4" alt="GitHub Trophies" />
+
+</div>
+
+---
+
 ## GitHub Activity
 
 <div align="center">
